@@ -3,11 +3,13 @@
   "description": "Account Opening Document Extraction\r\n",
   "main": "Main.xaml",
   "dependencies": {
+    "ImageAction.Cropp.Activities": "[1.0.7354.28052]",
     "UiPath.DocumentProcessing.Contracts": "[1.10.0-preview]",
     "UiPath.DocumentUnderstanding.ML.Activities": "[1.6.1-preview]",
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.IntelligentOCR.Activities": "[4.11.1-preview]",
     "UiPath.Mail.Activities": "[1.9.3]",
+    "UiPath.PDF.Activities": "[3.3.0]",
     "UiPath.System.Activities": "[20.10.1]",
     "UiPath.UIAutomation.Activities": "[20.10.6]"
   },
